@@ -2,4 +2,5 @@
 
 a = 5; b = 7 -> max = 7
 
+[Блок схема](task002.drawio.png)
 
