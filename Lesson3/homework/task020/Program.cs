@@ -12,7 +12,7 @@ int x2 = Coordinate("x", "B");
 int y2 = Coordinate("y", "B");
 int z2 = Coordinate("z", "B");
 
-//Введем координаты 
+//Введем координаты точек в 3D 
 int Coordinate(string coorName, string pointName)
 {
     Console.Write($"Введите координату {coorName} точки {pointName}: ");
