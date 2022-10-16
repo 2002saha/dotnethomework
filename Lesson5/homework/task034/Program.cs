@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 Console.WriteLine("Введите размер желаемого массива");
 int size = Convert.ToInt32(Console.ReadLine());
+Console.Clear();
 int[] numbers = new int[size];
 FillArrayRandom(numbers);
 
